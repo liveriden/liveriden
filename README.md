@@ -1,6 +1,6 @@
-### Hi there :watermelon:
-<h1 style="color: #5e9ca0;"><a title="I'm on Discord" href="https://discord.gg/dzM8UDE8Jk" target="_blank">I'm in Discord</a></h1>
-<h1 style="color: #5e9ca0;"><a title="I'm on Matrix" href="https://matrix.to/#/#Liveriden-channel:matrix.org" target="_blank">I'm on Matrix</a></h1>
+<h1 align="center">### Hi there :watermelon:</h1>
+<h2 align="center"><a title="Discord" href="https://discord.gg/dzM8UDE8Jk" target="_blank">Discord</a></h2>
+<h2 align="center"><a title="Matrix" href="https://matrix.to/#/#Liveriden-channel:matrix.org" target="_blank">Matrix</a></h2>
 
 
 <!---
