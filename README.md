@@ -1,7 +1,7 @@
-<h1 align="center">### Hi there :watermelon:</h1>
-<h2 align="center"><a title="Discord" href="https://discord.gg/dzM8UDE8Jk" target="_blank">Discord</a></h2>
-<h2 align="center"><a title="Matrix" href="https://matrix.to/#/#Liveriden-channel:matrix.org" target="_blank">Matrix</a></h2>
-
+<h1 align="center">### Hi there :watermelon:</h1>  
+<h2 align="center"><a title="Discord" href="https://discord.gg/dzM8UDE8Jk" target="_blank">Discord</a></h2>  
+<h2 align="center"><a title="Matrix" href="https://matrix.to/#/#Liveriden-channel:matrix.org" target="_blank">Matrix</a></h2>  
+<hr />
 
 <!---
 - 👋 Hi, I’m @liveriden
