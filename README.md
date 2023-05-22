@@ -6,7 +6,7 @@
     <b>i&nbsp;Novice&nbsp;Developer&amp;a&nbsp;fan&nbsp;of&nbsp;funny&nbsp;ai</b><br />
   </h2>
   <div align="center">
-    <img src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" style="width: 128px;" align="center" /><br />
+    <img src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" style="width: 320px;" align="center" /><br />
     <div align="center">
       <h2>
         <b>
