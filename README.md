@@ -18,6 +18,7 @@
   </div>
 </div>
 
+<!--
 .
 
 .
@@ -27,7 +28,7 @@
 .
 
 .
-
+-->
 <!-- <div align="center">
   <h1><strong>### Hi there :watermelon:<br></strong></h1>
   <h2><strong>i Novice Developer & a fan of funny ai<br></strong></h2>
@@ -44,7 +45,7 @@
   </div>
 </div>
 </div> -->
-
+<!-- 
 .
 
 .
@@ -54,7 +55,7 @@
 .
 
 .
-
+ -->
 <!---
 - 👋 Hi, I’m @liveriden
 - 👀 I’m interested in ...
@@ -66,7 +67,7 @@
 liveriden/liveriden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!-- 
 .
 
 .
@@ -76,5 +77,5 @@ You can click the Preview link to take a look at your changes.
 .
 
 .
-
+ -->
 <!-- 'liveridenʳ࿕☦' -->
