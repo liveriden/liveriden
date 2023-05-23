@@ -34,7 +34,6 @@
 
 
 
-
 <!-- <div align="center">
   <h1><strong>### Hi there :watermelon:<br></strong></h1>
   <h2><strong>i Novice Developer & a fan of funny ai<br></strong></h2>
