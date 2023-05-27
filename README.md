@@ -6,12 +6,12 @@
     <b>i&nbsp;Novice&nbsp;Developer&amp;a&nbsp;fan&nbsp;of&nbsp;funny&nbsp;ai</b><br />
   </h2>
   <div align="center">
-    <img src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" style="width: 320px;" align="center" />
+    <img src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" width="320" />
     <div align="center">
       <h2>
         <b>
-          <a href="https://discord.gg/dzM8UDE8Jk">Discord&nbsp;</a>|
-          <a href="https://matrix.to/#/#Liveriden-channel:matrix.org">Matrix&nbsp;</a><br />
+          <a href="https://discord.gg/dzM8UDE8Jk" title="Discord">Discord&nbsp;</a>|
+          <a href="https://matrix.to/#/#Liveriden-channel:matrix.org" title="Matrix">Matrix&nbsp;</a><br />
         </b>
       </h2>
     </div>
@@ -94,16 +94,16 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 <div align="center">
-<p><strong>Liveriden</strong></p>
+<p><strong>Liveriden&nbsp;&nbsp;</strong></p>
 </div>
 
 <div align="center">
-<a href="https://github.com/liveriden" title="Liveriden"><img src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" alt="Liveriden logo" width="100" height="100"></a>
+<a href="https://github.com/liveriden" title="Liveriden"><img alt="Liveriden logo" height="100" src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" width="100" /></a>
 </div>
 
 <div align="center">
 
-[📊 Metrics](https://metrics.lecoq.io/) | [:octocat: Github](https://github.com/)
+&nbsp;[📊 Metrics](https://metrics.lecoq.io/) | [:octocat: Github](https://github.com/)
 
 </div>
 <!-- 'liveridenʳ࿕☦' -->
