@@ -94,16 +94,14 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 <div align="center">
-<p><strong>Liveriden&nbsp;&nbsp;</strong></p>
+<strong>Liveriden&nbsp;&nbsp;</strong>
 </div>
-
 <div align="center">
 <a href="https://github.com/liveriden" title="Liveriden"><img alt="Liveriden logo" height="100" src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" width="100" /></a>
 </div>
-
 <div align="center">
 
-&nbsp;[📊 Metrics](https://metrics.lecoq.io/) | [:octocat: Github](https://github.com/)
+<b>&nbsp;[📊 Metrics](https://metrics.lecoq.io/) | [:octocat: Github](https://github.com/)</b>
 
 </div>
 <!-- 'liveridenʳ࿕☦' -->
