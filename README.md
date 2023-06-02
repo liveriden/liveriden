@@ -6,7 +6,7 @@
     <strong>i&nbsp;Novice&nbsp;Developer&amp;a&nbsp;fan&nbsp;of&nbsp;funny&nbsp;ai</strong><br />
   </h2>
   <div align="center">
-    <img src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" width="320" />
+    <img src="https://raw.githubusercontent.com/liveriden/lidev/main/github-assets/image/smile-browser-image-128x128.png" width="128" />
     <div align="center">
       <h2>
         <strong>
@@ -35,15 +35,19 @@ liveriden/liveriden is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 -->
 <!--
-.
 
-.
+<div align="center">
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liveriden&theme=dracula)
 
-.
+</div>
+<div align="center">
+<strong>Liveriden&nbsp;&nbsp;</strong>
+</div>
+<div align="center">
+<a href="https://github.com/liveriden" title="Liveriden"><img alt="Liveriden logo" height="100" src="https://github.com/liveriden/lidev/raw/main/github-assets/image/logo/liveriden-logo.svg" width="100" /></a>
+</div>
 
-.
-
-.
 -->
 <div align="center">
  
@@ -54,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 <strong>Liveriden&nbsp;&nbsp;</strong>
 </div>
 <div align="center">
-<a href="https://github.com/liveriden" title="Liveriden"><img alt="Liveriden logo" height="100" src="https://github.com/liveriden/lidev/raw/main/media/img/smile-browser-image.png" width="100" /></a>
+<a href="https://github.com/liveriden" title="Liveriden"><img alt="Liveriden logo" src="https://github.com/liveriden/lidev/raw/main/github-assets/image/logo/liveriden-logo.svg" width="150" /></a>
 </div>
 <div align="center">
 
