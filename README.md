@@ -1,21 +1,19 @@
 <div align="center">
-  <h1>
-    <strong>###&nbsp;Hi&nbsp;there&nbsp;:watermelon:</strong><br />
-  </h1>
-  <h2>
-    <strong>i&nbsp;Novice&nbsp;Developer&amp;a&nbsp;fan&nbsp;of&nbsp;funny&nbsp;ai</strong><br />
-  </h2>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/liveriden/lidev/main/github-assets/image/smile-browser-image-128x128.png" width="128" />
-    <div align="center">
-      <h2>
-        <strong>
-          <a href="https://discord.gg/dzM8UDE8Jk" title="Discord">Discord&nbsp;</a>|
-          <a href="https://matrix.to/#/#Liveriden-channel:matrix.org" title="Matrix">Matrix&nbsp;</a><br />
-        </strong>
-      </h2>
-    </div>
-  </div>
+<h1>
+<b>### Hi there :watermelon:</b>
+<br />
+</h1>
+<h2>i Novice Developer  &amp;  a fan of funny ai</h2>
+<div align="center">
+<a href="https://github.com/liveriden" title="Liveriden">
+<img src="https://raw.githubusercontent.com/liveriden/lidev/main/github-assets/image/smile-browser-image-128x128.png" width="128" />
+</a>
+<div align="center">
+<h2>
+<a href="https://discord.gg/dzM8UDE8Jk" title="Discord">Discord&nbsp;</a>|<a href="https://matrix.to/#/#Liveriden-channel:matrix.org" title="Matrix">&nbsp;Matrix&nbsp;</a>
+</h2>
+</div>
+</div>
 </div>
 <div align="center">
 
@@ -55,14 +53,16 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 <div align="center">
-<strong>Liveriden&nbsp;&nbsp;</strong>
+<h2>Liveriden</h2>
 </div>
 <div align="center">
-<a href="https://github.com/liveriden" title="Liveriden"><img alt="Liveriden logo" src="https://github.com/liveriden/lidev/raw/main/github-assets/image/logo/liveriden-logo.svg" width="150" /></a>
+<a href="https://github.com/liveriden" title="Liveriden">
+<img alt="Liveriden logo" src="https://raw.githubusercontent.com/liveriden/lidev/main/github-assets/image/logo/liveriden-logo.svg" width="150" />
+</a>
 </div>
 <div align="center">
 
-<strong>&nbsp;[📊 Metrics](https://metrics.lecoq.io/) | [:octocat: Github](https://github.com/)</strong>
+<strong>[📊 Metrics](https://metrics.lecoq.io/) | [:octocat: Github](https://github.com/)</strong>
 
 </div>
 <!-- 'liveridenʳ࿕☦' -->
