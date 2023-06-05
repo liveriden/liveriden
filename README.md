@@ -4,16 +4,20 @@
 <br />
 </h1>
 <h2>i Novice Developer  &amp;  a fan of funny ai</h2>
+</div>
 <div align="center">
 <a href="https://github.com/liveriden" title="Liveriden">
 <img src="https://raw.githubusercontent.com/liveriden/lidev/main/github-assets/image/smile-browser-image-128x128.png" width="128" />
 </a>
+</div>
+<div align="center">
+<h2>
+<a href="https://dewob.blogspot.com/" target="_blank">Blogspot</a>
+</h2>
 <div align="center">
 <h2>
 <a href="https://discord.gg/dzM8UDE8Jk" title="Discord">Discord&nbsp;</a>|<a href="https://matrix.to/#/#Liveriden-channel:matrix.org" title="Matrix">&nbsp;Matrix&nbsp;</a>
 </h2>
-</div>
-</div>
 </div>
 <div align="center">
 
