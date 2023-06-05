@@ -1,9 +1,5 @@
 <div align="center">
-<h1>
-<b>### Hi there :watermelon:</b>
-<br />
-</h1>
-<h2>i Novice Developer  &amp;  a fan of funny ai</h2>
+<h1>### Hi there :watermelon:<br>i Novice Developer  &amp;  a fan of funny artificial intelligence</br></h1>
 </div>
 <div align="center">
 <a href="https://github.com/liveriden" title="Liveriden">
