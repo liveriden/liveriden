@@ -1,9 +1,9 @@
 <div align="center">
-<h1>### Hi there :watermelon:<br>i Novice Developer  &amp;  a fan of funny artificial intelligence</br></h1>
+<h1>### Hi there :watermelon:<br />i Novice Developer  &amp;  a fan of funny artificial intelligence</h1>
 </div>
 <div align="center">
 <a href="https://github.com/liveriden" title="Liveriden">
-<img src="https://raw.githubusercontent.com/liveriden/lidev/main/github-assets/image/smile-browser-image-128x128.png" width="128" />
+<img alt="Liveriden logo - (Если Вы видите этот текст, это значит ссылка неработающая, если у Вас есть свободная минутка :) сообщите об этом  на электронную почту вставив ссылку страницы в письмо или опишите ситуацию.) (If You see this text, it means the link is broken, if You have a free minute :) let know by e-mail by inserting the page link in the letter or describe the situation.)" height="128" src="https://github.com/liveriden/lidev/raw/main/github-assets/image/smile-browser-image.png" width="128" />
 </a>
 </div>
 <div align="center">
@@ -32,21 +32,6 @@
 liveriden/liveriden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
-<!--
-
-<div align="center">
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liveriden&theme=dracula)
-
-</div>
-<div align="center">
-<strong>Liveriden&nbsp;&nbsp;</strong>
-</div>
-<div align="center">
-<a href="https://github.com/liveriden" title="Liveriden"><img alt="Liveriden logo" height="100" src="https://github.com/liveriden/lidev/raw/main/github-assets/image/logo/liveriden-logo.svg" width="100" /></a>
-</div>
-
--->
 <div align="center">
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liveriden&theme=dracula)
@@ -57,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div align="center">
 <a href="https://github.com/liveriden" title="Liveriden">
-<img alt="Liveriden logo" src="https://raw.githubusercontent.com/liveriden/lidev/main/github-assets/image/logo/liveriden-logo.svg" width="150" />
+<img alt="Liveriden logo - (Если Вы видите этот текст, это значит ссылка неработающая, если у Вас есть свободная минутка :) сообщите об этом  на электронную почту вставив ссылку страницы в письмо или опишите ситуацию.) (If You see this text, it means the link is broken, if You have a free minute :) let know by e-mail by inserting the page link in the letter or describe the situation.)" height="128" src="https://github.com/liveriden/lidev/raw/main/github-assets/image/logo/liveriden-logo.svg" width="128" />
 </a>
 </div>
 <div align="center">
@@ -65,4 +50,4 @@ You can click the Preview link to take a look at your changes.
 <strong>[📊 Metrics](https://metrics.lecoq.io/) | [:octocat: Github](https://github.com/)</strong>
 
 </div>
-<!-- 'liveridenʳ࿕☦' -->
+<!-- liveridenʳ࿕☦ -->
