@@ -33,11 +33,6 @@ liveriden/liveriden is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 -->
 <div align="center">
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liveriden&theme=dracula)
-
-</div>
-<div align="center">
 <h2>Liveriden</h2>
 </div>
 <div align="center">
