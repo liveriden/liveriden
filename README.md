@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div align="center">
 
-<strong>[📊 Metrics](https://metrics.lecoq.io/) | [:octocat: Github](https://github.com/)</strong>
+**[📊 Metrics](https://metrics.lecoq.io/) | [:octocat: Github](https://github.com/)**
 
 </div>
-<!-- liveridenʳ࿕☦ -->
+<!-- liveridenʳ࿕☦ 2023-06-07 -->
