@@ -12,9 +12,12 @@
 </h2>
 <div align="center">
 <h2>
-<a href="https://discord.gg/dzM8UDE8Jk" title="Discord">Discord&nbsp;</a>|<a href="https://matrix.to/#/#Liveriden-channel:matrix.org" title="Matrix">&nbsp;Matrix&nbsp;</a>
+
+<!-- <a href="https://discord.gg/dzM8UDE8Jk" title="Discord">Discord&nbsp;</a>|<a href="https://matrix.to/#/#Liveriden-channel:matrix.org" title="Matrix">&nbsp;Matrix&nbsp;</a> -->
+<a href="https://discord.gg/dzM8UDE8Jk" title="Discord">Discord</a>
+
   
-&nbsp;![Discord](https://img.shields.io/discord/419516114842943489?logo=discord)
+![Discord](https://img.shields.io/discord/419516114842943489?logo=discord)
 ![Static Badge](https://img.shields.io/github/repo-size/liveriden/liveriden)
 </h2>
 </div>
