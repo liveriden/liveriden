@@ -43,5 +43,6 @@ You can click the Preview link to take a look at your changes.
 <!-- **[:octocat: Github](https://github.com/)** -->
 **[:octocat:](https://github.com/)**
 
+## **[git-scm](https://git-scm.com/)** ☀ **[vscode](https://github.com/microsoft/vscode/)** ☀ **[askubuntu](https://askubuntu.com/)** ☀ **[awesomeopensource](https://awesomeopensource.com/)** ☀ **[developer.mozilla](https://developer.mozilla.org/)** ☀ **[ru.stackoverflow](https://ru.stackoverflow.com/)** ☀ **[stackoverflow](https://stackoverflow.com/)** ☀ **[bluefish](https://bluefish.openoffice.nl/)** ☀ **[sourceforge](https://sourceforge.net/)** ☀ **[wikimedia](https://www.wikimedia.org/)**
 </div>
 <!-- liveridenʳ࿕☦ 2024-03-02 -->
