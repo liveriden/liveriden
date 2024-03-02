@@ -37,7 +37,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 <div align="center">
 
-**[:octocat: Github](https://github.com/)**
+<!-- **[:octocat: Github](https://github.com/)** -->
+**[:octocat:](https://github.com/)**
 
 </div>
-<!-- liveridenʳ࿕☦ 2023-06-07 -->
+<!-- liveridenʳ࿕☦ 2024-03-02 -->
